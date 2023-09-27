@@ -1,0 +1,62 @@
+{
+    "produkter": [
+      {
+        "id": 1,
+        "kategori": "Dame",
+        "navn": "Elegant Rose Parfume",
+        "pris": 49.99,
+        "beskrivelse": "En fortryllende duft med noter af roser og jasmin.",
+        "stjerner": 4.5,
+        "billedeUrl": "https://images.unsplash.com/photo-1560807707-8cc77767d783"
+      },
+      {
+        "id": 2,
+        "kategori": "Herre",
+        "navn": "Mystisk Midnight Parfume",
+        "pris": 59.99,
+        "beskrivelse": "En sensuel duft med hints af vanilje og patchouli.",
+        "stjerner": 4.2,
+        "billedeUrl": "https://images.unsplash.com/photo-1557707018-4279d6d3b8bc"
+      },
+      {
+        "id": 3,
+        "kategori": "Dame",
+        "navn": "Citrus Breeze Parfume",
+        "pris": 39.99,
+        "beskrivelse": "En forfriskende duft med citron- og appelsinnoter.",
+        "stjerner": 4.7,
+        "billedeUrl": "https://images.unsplash.com/photo-1578382714837-9d14d59253f0"
+      },
+      {
+        "id": 4,
+        "kategori": "Herre",
+        "navn": "Oriental Spice Parfume",
+        "pris": 54.99,
+        "beskrivelse": "En krydret duft med undertoner af sandeltræ og musk.",
+        "stjerner": 4.0,
+        "billedeUrl": "https://images.unsplash.com/photo-1572468403202-6bbda638648b"
+      },
+      {
+        "id": 5,
+        "kategori": "Dame",
+        "navn": "Floral Fantasy Parfume",
+        "pris": 45.99,
+        "beskrivelse": "En blomstret duft med noter af liljer og roser.",
+        "stjerner": 4.3,
+        "billedeUrl": "https://images.unsplash.com/photo-1591075593747-7dcbb58e4344"
+      },
+      {
+        "id": 6,
+        "kategori": "Herre",
+        "navn": "Spicy Elegance Parfume",
+        "pris": 49.99,
+        "beskrivelse": "En krydret og sofistikeret duft med træagtige noter.",
+        "stjerner": 4.4,
+        "billedeUrl": "https://images.unsplash.com/photo-1580745796411-190f99039af0"
+      }
+    ]
+  }
+  
+
+
+  

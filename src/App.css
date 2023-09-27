@@ -1,0 +1,43 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+
+.search-section {
+  width: 800px;
+  margin: 0 auto;
+}
+
+.search-box {
+  width: 500px;
+  margin: 0 auto;
+}
+
+.heading {
+  width: 500px;
+  margin: 0 auto;
+}
+
+.movie-list {
+  width: 800px;
+  margin: 20px auto;
+}
+
+.movie-item {
+
+  padding: 10px;
+  margin-bottom: 20px;
+  list-style: none;
+  background-color: #f5f5f5;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add your desired shadow properties here */
+  transition: box-shadow 0.3s ease-in-out; /* Add a smooth transition effect */
+}
+.movie-item h2 {
+  font-size: 1.5rem;
+  margin: 0;
+}
+
+/* Add more styles as needed */
